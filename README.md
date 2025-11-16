@@ -1,3 +1,3 @@
-# ip25-optional-exercises
+# ip25-string-exercises
 
-This repository includes exercises that are outside the paddle ones.
+This includes the exercises for week 7 (strings).
